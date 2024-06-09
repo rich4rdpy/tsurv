@@ -95,10 +95,10 @@ def search_bing(query):
         print(Fore.RED + f"[-] Error during Bing search: {e}")
 
 def main():
-    print(Fore.PURPLE + "------------------------------")
-    print(Fore.PURPLE + "     https:://github.com/rich4rdpy/tsurv   ")
+    print(Fore.BLUE + "------------------------------")
+    print(Fore.BLUE + "     https:://github.com/rich4rdpy/tsurv   ")
     query = input(Fore.PURPLE + "     [=] Enter your search query: ")
-    print(Fore.PURPLE + "------------------------------")
+    print(Fore.BLUE + "------------------------------")
     search_google(query)
     search_duckduckgo(query)
     search_yandex(query)

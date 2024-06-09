@@ -1,4 +1,4 @@
-[![tsurv](https://imgur.com/a/p7QB6ux.png)](https://github.com/rich4rdpy/tsurv)
+[![tsurv](tsurv.png)](https://github.com/rich4rdpy/tsurv)
 
 Search web query with all search engines [TSURV](https://github.com/rich4rdpy/tsurv).
 

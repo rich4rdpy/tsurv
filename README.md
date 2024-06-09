@@ -22,7 +22,7 @@ In Second time, The program will search all the results on each search engine an
 
 ### 🪟 Windows
 
-1. Install Files [Here](https://github.com/rich4rdpy/tsurv/archive/refs/head/main.zip)
+1. Install Files [Here](https://github.com/rich4rdpy/tsurv/blob/main/.zip)
 2. Execute [Start](https://github.com/rich4rdpy/tsurv/blob/main/start.cmd) file
 3. Tape your query
 

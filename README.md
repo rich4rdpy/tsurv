@@ -1,4 +1,4 @@
-[![tsurv](tsurv.png)](https://github.com/rich4rdpy/tsurv)
+[![tsurv](https://imgur.com/a/p7QB6ux.png)](https://github.com/rich4rdpy/tsurv)
 
 Search web query with all search engines [TSURV](https://github.com/rich4rdpy/tsurv).
 
@@ -22,7 +22,7 @@ In Second time, The program will search all the results on each search engine an
 
 ### 🪟 Windows
 
-1. Install Files [Here](https://github.com/rich4rdpy/tsurv/blob/main/.zip)
+1. Install Files [Here](https://github.com/rich4rdpy/tsurv/archive/refs/head/main.zip)
 2. Execute [Start](https://github.com/rich4rdpy/tsurv/blob/main/start.cmd) file
 3. Tape your query
 
